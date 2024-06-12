@@ -54,17 +54,17 @@
 
  
 <a href="#">
-        <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="FurkanAK-1 " />
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="FurkanAK-1 " />
  
   </a>
 
    <a href="#">
-     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="FurkanAK-1" />
+     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="FurkanAK-1" />
 
   </a>
 
 <p align="center">
   <a>
-    <img height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
   </a>
   </p>
