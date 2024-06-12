@@ -52,6 +52,6 @@
 
 <p align="center">
   <a>
-    <img height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
   </a>
   </p>
