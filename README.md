@@ -11,8 +11,6 @@
 - 📫 How to reach me **furkan.ak@stu.fsm.edu.tr**
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -22,11 +20,6 @@
 </p>
 
 
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
 # 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,9 +31,6 @@
 
   
 
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanAK-1/FurkanAK-1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanAK-1/FurkanAK-1/output/github-contribution-grid-snake.svg">
@@ -48,10 +38,7 @@
 </picture>
 
 
-
 # Github Stats
-
-
  
 <a href="#">
         <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="FurkanAK-1 " />
