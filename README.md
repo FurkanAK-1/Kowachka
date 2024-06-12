@@ -1,12 +1,5 @@
 ![MasterHead](https://i.hizliresim.com/jzzcuop.jpg)
 ![](https://komarev.com/ghpvc/?username=FurkanAK-1&color=blue)
-<div align="center">
- <a href="https://github.com/FurkanAK-1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Furkan+AK+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
-
-<img src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/EatSleepCodeRepeat.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate backend developer from Türkiye</h3>
@@ -58,66 +51,21 @@
 
 # Github Stats
 
- <br />
+
  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Left.png?raw=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="FurkanAK-1" />
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Right.png?raw=true">
+<a href="#">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="FurkanAK-1 " />
+ 
   </a>
-</p>
-
-  
-<br />
-
 
  
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Right.png?raw=true">
+   <a href="#">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="FurkanAK-1" />
+
   </a>
-</p>
- 
 
- 
- <br />
- 
-  
-  
-  <p align="center">
+<p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Bottom%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAK-1&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="FurkanAK-1" />
-    <img heigth="160" width="182" src="https://github.com/FurkanAK-1/FurkanAK-1/blob/main/img/Bird%20Wing%20Bottom%20Right.png?raw=true">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanAK-1&theme=material-palenight&hide_border=false" alt="FurkanAK-1" width="55%" />
   </a>
-</p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAK-1&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/FurkanAK-1/github-readme-stats)
--->
-
-
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=FurkanAK-1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
-
-<br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
+  </p>
